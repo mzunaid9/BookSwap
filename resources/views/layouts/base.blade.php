@@ -15,7 +15,7 @@
 
     </head>
     @include('layouts.navbar')
-    <body class>
+    <body class="bg-secondary">
         @yield('body')
     </body>
 </html>
